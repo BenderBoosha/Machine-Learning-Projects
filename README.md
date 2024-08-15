@@ -10,3 +10,5 @@ In this project, I evaluated a CSV file found on Kaggle in which NFL players and
 Here is the link for the Kaggle Dataset: "https://www.kaggle.com/datasets/aryashah2k/beginners-sports-analytics-nfl-dataset?select=players.csv"
 ### Predicting_Weather
 In this project, I look at a dataset found on Kaggle for the weather during WW2 to see if I can create a Linear Regression Model to predict the MAX temperature when given the MIN temperature. I first cleaned the data, then did some EDA on it to determine if we could create a model. Then, I created 3 models and determined which model was the best. I repeated this process for when given MIN temperature and precipitation to predict the MAX.
+<br>
+**The link to the Kaggle Dataset is in the python notebook.**
