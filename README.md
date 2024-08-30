@@ -1,5 +1,5 @@
 # Read Me
-Here is a repository of Jupyter Notebooks for all my Projects. I am following the IBM Professional Certificate course, so projects with **"Course #"** will overlap with that course.
+Here is a repository of Jupyter Notebooks for all my Projects. I am following the IBM Professional Certificate course, so projects under the section were completed in unison with the certificate.
 
 ## Cryptography_Projects
 Here are all the projects that I did in my cryptography course at Virginia Tech. The following notebook has code blocks for each different algorithm that we learned. Algorithms are not explained in the code.
