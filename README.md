@@ -17,3 +17,8 @@ In this project, I examine match history of the Premier League to try and find a
 <br>To access the data set, [click here](https://www.kaggle.com/datasets/mhmdkardosha/premier-league-matches/data) or copy and paste this link: <br>
 https://www.kaggle.com/datasets/mhmdkardosha/premier-league-matches/data
 <br>
+### Wholesale_Customer_Clustering
+In this project, I took in a dataset of wholesale customer information that gives the annual amount of money spent on different shopping departments. Using this information, I ran multiple clustering algorithms to try and find the amount of clusters in the dataset, as well as which unsupervised clustering algorithm is the best for our data. I showed that K-Means was the best through visualizations and data exploration. <br>
+Here is the [link](https://archive.ics.uci.edu/dataset/292/wholesale+customers) to the dataset to download, or copy and paste the following link: <br>
+https://archive.ics.uci.edu/dataset/292/wholesale+customers
+<br>
